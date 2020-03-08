@@ -1,0 +1,19 @@
+{
+  "name": "musicasdonordeste_scrapper",
+  "version": "1.0.0",
+  "description": "Um scraper para o site musicasdonordeste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraper",
+    "puppeteer"
+  ],
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "cli-progress": "^3.6.0",
+    "puppeteer": "^2.1.1"
+  }
+}
